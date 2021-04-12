@@ -71,3 +71,5 @@ do
     echo "Brightness set: $new_brightness"
 
 done
+
+#####
